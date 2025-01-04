@@ -1,4 +1,4 @@
-# 👋 Hola, soy Alan Benjamín Yeverino Valenzuela
+# 👋 Hola, soy Alan Yeverino
 
 ## 🎓 Estudiante de Ingeniería en Desarrollo de Software
 
